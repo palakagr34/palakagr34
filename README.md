@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Palak Agrawal. 
-- 👀 I’m interested in computer science and am currently doing a bachelors in CS at NJIT. 
-- 🌱 I’m currently learning C++ and know Java and Python. 
+- 👀 I amm interested in Computer Science and am currently pursuing a bachelors in CS at NJIT. 
+- 🌱 I am currently learning C++ and know Java and Python. 
 - 📫 You can reach me at palakagr34@gmail.com
 
 <!---
