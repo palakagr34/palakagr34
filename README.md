@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Palak Agrawal. 
-- 👀 I am a senior computer science student with a strong academic background and a fervor for software development and technology. Seeking an entry-level software development role to apply my skills honed through coursework and hands-on projects. Proficient in Java, Python, C++, and experienced in software development and data science. 
-- 📫 You can reach me at palakagr34@gmail.com
+- 👋 Palak Agrawal
+- 👩‍💻 Computer Science grad passionate about ethical data science & AI in healthcare.
+- 🔬 Currently working on cloud automation + AI enablement at Verizon.
+- 🛠️ Skilled in Python, Java, React, Flask, Firebase, Ansible, and AWS.
+- 📱 Built SurgiGuide, a surgical support app with chatbot integration.
+- 📫 Reach me at palakagr34@gmail.com
 
